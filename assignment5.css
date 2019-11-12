@@ -1,0 +1,106 @@
+.line{
+  width: 10px;
+  height: 150px;
+  background-color: black;
+  position: absolute;
+
+}
+
+.topcircle{
+  border-radius: 100px;
+  width: 80px;
+  height: 80px;
+  background-color: black;
+  position: absolute;
+  top: 10%;
+}
+.U{
+  border-radius: 0px 0px 45px 45px;
+  width: 80px;
+  height: 80px;
+  border: 1px solid black;
+  border-top: 0px;
+  background-color: black;
+  position: absolute;
+  top: 10%;
+  left: 12%;
+}
+.Uhole{
+  border-radius: 0px 0px 45px 45px;
+  width: 50px;
+  height: 60px;
+  border-top: 0px;
+  background-color: white;
+  position: absolute;
+  top: 10%;
+  left: 14%;
+}
+.R{
+  position: absolute;
+    left: 25%;
+    top: 10%;
+    height: 70px;
+    width: 10px;
+    background-color: black;
+}
+.Rstem{
+  position: absolute;
+  left: 25%;
+  top: 12%;
+  height: 10px;
+  width: 40px;
+  background-color: black;
+}
+.N{
+  border-radius: 45px 45px 0px 0px;
+  width: 80px;
+  height: 80px;
+  border: 1px solid black;
+  border-top: 0px;
+  background-color: black;
+  position: absolute;
+  top: 10%;
+  left: 32%;
+}
+
+.Nhole{
+  border-radius: 45px 45px 0px 0px;
+  width: 50px;
+  height: 60px;
+  border-top: 0px;
+  background-color: white;
+  position: absolute;
+  top: 13%;
+  left: 34%;
+}
+
+.triangle{
+  width: 0;
+    height: 0;
+    border-bottom: 140px solid #fcf921;
+    border-left: 70px solid transparent;
+    border-right: 70px solid transparent;
+    position: absolute;
+    left: 40%;
+    top: 50%;
+}
+.triangle2{
+  width: 0;
+    height: 0;
+    border-bottom: 150px solid #fcb221;
+    border-left: 90px solid transparent;
+    border-right: 90px solid transparent;
+    position: absolute;
+    left: 42%;
+    top: 50%;
+}
+.triangle3{
+  width: 0;
+    height: 0px;
+    border-bottom: 160px solid #fc4221;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    position: absolute;
+    left: 47%;
+    top: 49%;
+}
